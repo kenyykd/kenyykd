@@ -16,11 +16,11 @@
 <br>
 
 ### 🌱 Philosophy & Vision
-> **Era Grateful**: I feel fortunate to live in an era where the internet is so advanced.
-> 
-> **Growth**: Seeking diverse learning opportunities and constantly pushing my boundaries.
-> 
-> **Passion**: Life Enthusiast
+* I feel fortunate to live in an era where the internet is so advanced.
+ 
+* Seeking diverse learning opportunities and constantly pushing my boundaries.
+ 
+* Life Enthusiast
 
 <br>
 
