@@ -22,6 +22,14 @@
  
 * Life Enthusiast
 
+
+### 👨‍💻 About Me
+* 🔭 **Focus**：JavaScript, C# & .NET (Library Systems)
+
+* 🌱 **Learning**：AI Agent Skills
+
+* 💬 **Algorithm**：[Codewars](https://www.codewars.com/users/kenyykd)
+
 <br>
 
 <details>
@@ -34,15 +42,6 @@
   </blockquote>
 </details>
 
-<br>
-
-### 👨‍💻 About Me
-* 🔭 **Focus**：JavaScript, C# & .NET (Library Systems)
-* 🌱 **Learning**：AI Agent Skills
-* 💬 **Algorithm**：[Codewars](https://www.codewars.com/users/kenyykd)
-
-<br>
-
 ### 🔗 Connect with Me
 [![BLOG](https://img.shields.io/badge/BLOG-fooint-orange?style=for-the-badge)](https://fooint.blogspot.com/) &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-a23088680@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:a23088680@gmail.com)
@@ -50,6 +49,7 @@
 <br>
 
 
-<div align="center">
+
+<div>
 Focus on yourself
 </div>
