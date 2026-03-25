@@ -32,15 +32,7 @@
 
 <br>
 
-<details>
-  <summary>🇯🇵 日本語での自己紹介はこちら (Click to expand)</summary>
-  <br>
-  <blockquote>
-    <strong>自己紹介</strong><br>
-    こんにちは！私はプログラマーの Tim Wu です。
-    現在、日本でのワーキングホリデーや現地でのキャリアに興味があり、日本語を勉強しています。
-  </blockquote>
-</details>
+
 
 ### 🔗 Connect with Me
 [![BLOG](https://img.shields.io/badge/BLOG-fooint-orange?style=for-the-badge)](https://fooint.blogspot.com/) &nbsp;
