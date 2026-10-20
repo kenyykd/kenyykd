@@ -62,12 +62,10 @@
 <br>
 
 ### 🔗 Connect with Me / 連絡先
-[![BLOG](https://img.shields.io/badge/BLOG-fooint-orange?style=for-the-badge)](https://kenyykdblog.vercel.app/) &nbsp;
+[![BLOG](https://img.shields.io/badge/BLOG-kenyykdblog-orange?style=for-the-badge)](https://kenyykdblog.vercel.app/) &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-a23088680@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:a23088680@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-TimWu-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/feed/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-TimWu-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tim-wu-81093b364/)
 <br>
-
-
 
 <div>
 Focus on yourself
